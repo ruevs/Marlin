@@ -1,7 +1,7 @@
 Marlin Firmware Configured for the [Anycubic Kossel Linear][anycubic] Delta 3D Printer
 ==========
 
-This repository contains the [Marlin firmware][] [version 1.1.6][ver]
+This repository contains the [Marlin firmware][] [version 1.1.8][ver]
 configured for the [Anycubic Kossel Linear][anycubic] delta 3D printer.
 
 This is a full assembly video and review of the printer:
